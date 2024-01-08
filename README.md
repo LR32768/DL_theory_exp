@@ -18,5 +18,7 @@ Maybe we can find some novel insights, who knows!
 | 2. Edge of Stability| | Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability| Cohen *et al.*|
 | 3. Lottery Ticket Hypothesis | | The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks | Frankle *et al.* |
 
+To be continued...
+
 ## Need Your Help!
 You can add `pull Request` to propose the mechanism and phenomena that you feel interesting and want to be explored! We will add detailed experimental log and report in this repo!
